@@ -1,0 +1,528 @@
+﻿<?xml version="1.0" encoding="utf-8"?><Search><pages Count="12"><page Index="1"><![CDATA[Historia  de QGIS
+
+
+
+
+
+
+                                                              Cronología y Evolución
+
+
+
+
+
+
+                                                                                   2002 - 2025
+
+
+
+
+
+
+
+
+
+                                                   Sistema de Información Geográfica Libre y de Código Abierto]]></page><page Index="2"><![CDATA[Índice de Contenido
+
+
+
+
+
+
+
+
+                      1    Introducción                                                               7     Roadmap y versiones LTR
+
+
+                      2    Orígenes de QGIS (2002-2006)                                               8     Impacto y adopción institucional
+
+
+
+                      3    Fundación OSGeo y QGIS (2007)                                              9     Comunidad y desarrollo abierto
+
+
+                      4    QGIS 1.0: Consolidación (2009)                                            10     Casos de uso y reconocimientos
+
+
+
+                      5    QGIS 2.x: Cambios y madurez (2013-2017)                                   11     Futuro de QGIS
+
+
+                           QGIS 3.x: Revolución y roadmap (2018-
+                      6
+                           2025)]]></page><page Index="3"><![CDATA[Introducción a QGIS
+
+
+
+
+
+
+
+
+             ¿Qué es QGIS?                                                                         Línea de tiempo inicial
+
+
+             QGIS es un Sistema de Información Geográfica (SIG) libre y                                   Febrero 2002
+             de código abierto, disponible para múltiples plataformas.                                    Gary Sherman inicia el desarrollo de Quantum GIS como
+
+             Permite visualizar, gestionar, editar y analizar datos                                       un proyecto personal para visualizar datos PostGIS en
+             geoespaciales.                                                                               Linux.
+
+
+             Características principales                                                                  Julio 2002
+
+
+                Visualización y análisis de datos espaciales                                              Lanzamiento de la primera versión pública (0.0.1) con
+
+                                                                                                          funcionalidades SIG básicas.
+                Soporte para formatos raster y vectoriales
+
+                Extensible mediante plugins                                                               2007 - Actualidad
+
+                Integración con otros SIG de código abierto                                               Evolución constante con ciclos de desarrollo activo y
+                                                                                                          comunidad global creciente.
+                Multiplataforma: Windows, Linux, macOS, Android
+
+
+
+
+                 "QGIS comenzó como un esfuerzo individual en febrero de 2002, impulsado principalmente por mi deseo de visualizar
+
+                                                 datos PostGIS en mi sistema Linux." - Gary Sherman, fundador de QGIS]]></page><page Index="4"><![CDATA[Orígenes de QGIS (2002-2006)
+
+
+
+
+
+
+
+
+                                                                                                   Cronología detallada (2002-2006)
+              Gary Sherman: El Fundador
+                                                                                                          Febrero 2002
+                       Gary Sherman inició el desarrollo como un
+                                                                                                          Gary Sherman comienza el desarrollo de Quantum GIS
+                       proyecto personal tras necesitar visualizar datos
+                                                                                                          en Alaska como proyecto personal.
+                       PostGIS en Linux, cuando no existían alternativas
+
+                       libres para esta tarea.                                                            Julio 2002
+
+                                                                                                          Lanzamiento de la versión 0.0.1, primera versión pública
+                 "QGIS comenzó como un esfuerzo individual en febrero
+                                                                                                          con funcionalidades básicas de visualización.
+                 de 2002, impulsado principalmente por mi deseo de
+
+                 visualizar datos PostGIS en mi sistema Linux."                                           2003
+                                                                                                          Se establece el repositorio en SourceForge y comienzan
+
+                                                                                                          a sumarse los primeros colaboradores.
+
+             Motivaciones iniciales                                                                       2004
+                                                                                                          Versión 0.6: Primera versión con soporte para plugins,
+                Necesidad de visualizar datos PostGIS en Linux
+                                                                                                          ampliando las funcionalidades mediante extensiones.
+                Alternativa libre a soluciones comerciales costosas                                       2005-2006
+
+                Exploración de las bibliotecas Qt y herramientas GIS                                      Expansión de funcionalidades, mejora de la interfaz y
+
+
+                Proyecto inicialmente personal que evolucionó con la                                      crecimiento de la comunidad. Se sientan las bases para
+                comunidad                                                                                 la integración con GRASS GIS.
+
+
+
+
+                                                                                                        Características originales
+
+                                                                                                            Visualización PostGIS                 Mapas base
+
+
+                                                                                                            Soporte Linux                         Interfaz Qt
+                                                                                                                                                OSGeo Logo]]></page><page Index="5"><![CDATA[Fundación de OSGeo y Avance de
+
+                                                                                          QGIS
+
+
+
+
+
+
+
+
+             La Open Source Geospatial Foundation                                                  Línea de tiempo - 2007
+
+
+             OSGeo es una organización sin fines de lucro fundada en                                      Febrero 2007
+
+             2006 con la misión de apoyar y promover el desarrollo                                        QGIS se convierte oficialmente en un proyecto incubador
+             colaborativo de tecnologías geoespaciales y datos abiertos.                                  de OSGeo tras un proceso de solicitud y revisión.
+
+
+           Beneficios para QGIS                                                                           Mayo 2007
+
+
+                                                                                                          Se establece el primer Comité Directivo de QGIS como
+             Infraestructura técnica                                                                      parte de los requisitos de gobernanza de OSGeo.
+             Acceso a servidores, herramientas de desarrollo y
+
+             sistemas de control de versiones.                                                            Septiembre 2007
+                                                                                                          Primera participación oficial en el FOSS4G (Free and
+
+                                                                                                          Open Source Software for Geospatial) como parte de
+             Respaldo institucional
+                                                                                                          OSGeo.
+             Mayor credibilidad y reconocimiento internacional como
+
+             proyecto geoespacial serio.
+                                                                                                                Un paso decisivo
+
+                                                                                                                La incorporación a OSGeo marcó un punto de
+             Comunidad ampliada
+                                                                                                                inflexión en el desarrollo de QGIS, sentando las
+             Interacción con otros proyectos SIG como GRASS, GDAL y
+                                                                                                                bases para su futuro crecimiento y expansión
+             PostGIS.
+                                                                                                                internacional.]]></page><page Index="6"><![CDATA[QGIS 1.0: Consolidación (2009)
+
+
+
+
+
+
+
+
+               HITO IMPORTANTE                                                                     Consolidación del proyecto
+             Lanzamiento de QGIS 1.0 'Kore'
+                                                                                                          Comunidad internacional
+             El 23 de enero de 2009, después de 7 años de desarrollo,                                     Con el lanzamiento de la versión 1.0, QGIS comenzó a
+
+             Tim Sutton anunció oficialmente el lanzamiento de QGIS                                       atraer una comunidad internacional más amplia de
+
+             1.0, marcando un punto de inflexión en la madurez y                                          desarrolladores, traductores y usuarios.
+             estabilidad del proyecto.
+                                                                                                          Traducción y localización
+             Características de QGIS 1.0                                                                  QGIS comenzó a traducirse a múltiples idiomas,
+
+
+                Nueva interfaz de usuario rediseñada y más intuitiva                                      ampliando su alcance global y accesibilidad.
+
+
+                Soporte mejorado para simbología y etiquetado                                             Adopción institucional
+
+                Herramientas avanzadas para análisis espacial                                             Organizaciones gubernamentales, académicas y
+                                                                                                          empresariales comenzaron a adoptar QGIS como
+                Integración con GRASS GIS
+                                                                                                          alternativa viable a soluciones SIG comerciales.
+                Sistema de complementos para extender funcionalidades
+
+                Soporte para bases de datos espaciales
+                                                                                                      "El lanzamiento de QGIS 1.0 fue un momento decisivo
+                                                                                                      para el proyecto. Pasamos de ser un pequeño visor de
+
+                                                                                                      datos a convertirnos en un SIG completo, capaz de
+
+                                                                                                      competir con soluciones comerciales en muchos
+                                                                                                      aspectos."
+
+
+                                                                                                                                                       - Comunidad QGIS, 2009]]></page><page Index="7"><![CDATA[QGIS 2.x: Cambios y madurez (2013-
+
+                                                                                        2017)
+
+
+
+
+
+
+
+
+             Cambio de nombre oficial                                                              Evolución y madurez (2013-2017)
+
+
+             En 2013, con el lanzamiento de la versión 2.0, se cambió                                     Nueva interfaz y renderizado
+
+             oficialmente el nombre de Quantum GIS a simplemente                                          Mejoras significativas en la interfaz de usuario y en el
+             QGIS para evitar confusiones, ya que ambos nombres se                                        motor de renderizado de mapas, aumentando la
+
+             habían utilizado en paralelo.                                                                velocidad y fluidez del trabajo.
+
+
+             Versiones destacadas                                                                         Sistema de versiones LTR
+
+
+               2.0  Dufour (sept. 2013) - Cambio de nombre oficial                                        Implementación del sistema de versiones de soporte a
+                                                                                                          largo plazo (Long Term Release), comenzando con QGIS
+               2.2  Valmiera (feb. 2014) - Rediseño de menús                                              2.8 Wien.
+
+
+
+               2.4  Chugiak (jun. 2014) - En honor a Gary Sherman                                         Mejoras en simbología
+
+                                                                                                          Potentes herramientas de simbología y etiquetado
+               2.8  Wien (feb. 2015) - Primera versión LTR de la serie
+                                                                                                          avanzado, con mayor control sobre la representación
+             2.x
+                                                                                                          cartográfica.
+
+               2.14  Essen (feb. 2016) - Segunda LTR con soporte
+                                                                                                          Compositor de impresión
+             extendido
+                                                                                                          Mejoras sustanciales en el compositor de mapas para
+
+               2.18  Las Palmas (oct. 2016) - Última versión 2.x                                          salidas de impresión profesionales.
+
+
+
+                                                                                                      "La era QGIS 2.x representó la consolidación del software
+
+                                                                                                      como alternativa profesional a soluciones comerciales,
+                                                                                                      con una madurez técnica y estabilidad que favoreció su
+
+                                                                                                      adopción global."]]></page><page Index="8"><![CDATA[QGIS 3.x: Revolución y roadmap
+
+                                                                              (2018-2025)
+
+
+
+
+
+
+
+
+             El gran salto: QGIS 3.0                                                               Evolución y roadmap (2018-2025)
+
+
+             Febrero 2018: Lanzamiento de QGIS 3.0 'Girona', una                                          QGIS 3.4 'Madeira'  LTR
+
+             versión revolucionaria que marcó el inicio de una nueva era
+                                                                                                          Primera versión LTR de la serie 3.x, octubre 2018.
+             para el proyecto con mejoras tecnológicas fundamentales.
+                                                                                                          Consolidación de las nuevas tecnologías.
+
+
+           Avances tecnológicos clave                                                                      QGIS 3.10 'A Coruña'  LTR
+
+
+                 Migración a Qt5                                                                           Noviembre 2019: Importantes mejoras en
+
+                 Nueva interfaz y mejoras en usabilidad                                                    procesamiento y análisis.
+
+                 Python 3                                                                                  QGIS 3.16 'Hannover'  LTR
+
+                 Mayor rendimiento y desarrollo simplificado
+                                                                                                           Octubre 2020: Mejoras en simbología y etiquetado
+                 Renderizador 3D                                                                           avanzado.
+
+                 Visualización de terrenos y modelos tridimensionales
+
+                 Edición avanzada                                                                          QGIS 3.28 'Firenze'  LTR
+
+                 Nuevas herramientas CAD y geoprocesamiento                                                Febrero 2023: Avances en análisis espacial y modelado.
+
+
+                                                                                                           QGIS 3.40  LTR
+
+                                                                                                           Octubre 2024: Última LTR antes del salto a QGIS 4.0.
+
+
+                       "La serie 3.x representa la madurez tecnológica de QGIS, con ciclos de desarrollo bien establecidos, versiones
+
+
+                                                    estables cada 4 meses y soporte LTR para usuarios profesionales."]]></page><page Index="9"><![CDATA[Roadmap Oficial y Lanzamientos LTR
+
+
+
+
+
+
+
+
+             Sistema de Versiones                                                                  Roadmap Actual (2025)
+
+
+                  Versiones pares (3.40, 3.42): Versiones de
+             lanzamiento                                                                             3.40 LTR                 Actual LTR        3.42                        Anterior
+
+                                                                                                         Lanzamiento: Oct 2024                      Lanzamiento: Feb 2025
+                  Versiones impares (3.43, 3.99): Versiones de
+                                                                                                         Soporte: Feb 2026                          Soporte: Jun 2025
+             desarrollo
+                                                                                                     Versión 3.40.8 (Actual)
+                  Cada 4 meses: Nuevo lanzamiento estable
+
+                   Cada 3 versiones: Nueva versión LTR (Long Term                                    3.44                          Actual       4.0                           Futuro
+
+             Release)
+                                                                                                         Lanzamiento: Jun 2025                      Previsto: Oct 2025
+
+             Ciclo de Desarrollo                                                                         Soporte: Oct 2025                          Dev: 3.99
+
+                                                                                                     Versión 3.44.0 (Actual)
+                3 meses             1 mes          = 4 meses total
+
+
+                   Primeros 3 meses: Desarrollo de nuevas
+             funcionalidades                                                                          Ventajas del sistema LTR
+
+
+                  Último mes: Congelación de funciones, pruebas y                                          Estabilidad para entornos de producción
+             corrección de errores                                                                         Soporte extendido (~16 meses)
+                                                                                                           Actualizaciones mensuales de corrección de errores
+                   Fase final: Traducción, preparación y lanzamiento
+                                                                                                           Equilibrio entre innovación y estabilidad]]></page><page Index="10"><![CDATA[Impacto y Uso Institucional
+
+
+
+
+
+
+
+
+           Organizaciones destacadas que utilizan                                                  Impacto y beneficios institucionales
+
+           QGIS
+
+                                                                                                      Ahorro económico significativo
+
+                   Agencias de Inteligencia de EE.UU.                                                 Las organizaciones públicas y privadas han reportado
+                   NSA (National Security Agency) y NGA (National                                     ahorros significativos en licencias al migrar desde
+
+                   Geospatial-Intelligence Agency) han adoptado QGIS                                  plataformas comerciales.
+
+                   para análisis geoespacial.
+
+
+
+                                                                                                      Adaptación a necesidades específicas
+                    The Economist
+                    Utiliza QGIS para la creación de visualizaciones                                  La naturaleza open source permite personalizar la
+                                                                                                      herramienta para necesidades específicas de cada
+                    geoespaciales en sus publicaciones y análisis.
+                                                                                                      organización mediante desarrollo propio o plugins.
+
+
+
+
+                   Administraciones públicas europeas
+                   Estado austríaco de Vorarlberg y cantones suizos de                                Democratización del acceso
+
+                   Glarus y Solothurn han migrado a QGIS para su                                      Facilita que organizaciones con recursos limitados puedan
+
+                   gestión territorial.                                                               acceder a tecnologías geoespaciales avanzadas sin
+                                                                                                      barreras económicas.
+
+
+                     Land Information New Zealand
+
+                     Departamento público responsable de la                                                                    +1.000.000
+
+                     información territorial en Nueva Zelanda.
+                                                                                                                     Usuarios estimados a nivel mundial]]></page><page Index="11"><![CDATA[Comunidad y Desarrollo Abierto
+
+
+
+
+
+
+
+
+
+                         Comunidad Global                                                                         Sistema de Extensiones
+
+
+                         QGIS es desarrollado y mantenido por una                                                 QGIS cuenta con un ecosistema de más de 1.500
+
+                         comunidad internacional diversa de voluntarios y                                         plugins desarrollados en Python y C++ que
+                         colaboradores profesionales.                                                             amplían sus funcionalidades.
+
+
+                         Más de 1.000 colaboradores han contribuido con                                           El repositorio de plugins permite a los usuarios
+
+                         código, documentación, traducción y pruebas a                                            instalar, actualizar y compartir nuevas
+                         lo largo de su historia.                                                                 herramientas fácilmente, extendiendo el SIG
+
+                                                                                                                  para casos específicos.
+
+
+                         Localización Global
+                                                                                                   Diversidad de Contribuyentes
+
+                         La interfaz de QGIS está traducida a más de 48
+
+                         idiomas, haciendo que el software sea accesible                                       Universidades             Empresas             Investigadores
+                         para usuarios de todo el mundo.
+
+                                                                                                                     ONGs             Gobiernos             Voluntarios
+                         Los esfuerzos de traducción son coordinados por
+
+                         voluntarios dedicados que mantienen
+                                                                                                                          Consultores             Ambientalistas
+                         actualizada la documentación en múltiples
+                         idiomas.
+                                                                                                   El desarrollo de QGIS demuestra cómo la colaboración
+
+                                                                                                   abierta entre diversos sectores puede crear una herramienta
+                                                                                                   profesional que democratiza el acceso a tecnología SIG de
+
+                                                                                                   alta calidad.
+
+
+
+                      "El éxito de QGIS radica en su comunidad activa que contribuye con código, ideas y soporte, transformando un
+
+                                                                proyecto personal en una plataforma SIG global."]]></page><page Index="12"><![CDATA[Futuro de QGIS
+
+
+
+
+
+
+
+
+             QGIS 4.0 - Octubre 2025
+                                                                                                      Principales novedades esperadas en
+
+             La próxima gran versión de QGIS representa un salto                                      4.0
+             significativo en la evolución del software, con cambios
+
+             fundamentales en su arquitectura y funcionalidades.                                          Nuevo motor de almacenamiento
+                                                                                                          Mayor rendimiento en manejo de datos masivos y
+                 Desarrollo activo actual: versión 3.99                                                   procesamiento de capas complejas.
+
+
+                                                                                                           Motor 3D mejorado
+                     Cronología de lanzamiento
+                                                                                                           Visualización y análisis tridimensional más avanzado y
+                        Septiembre 2025: Feature freeze (3.99)
+                                                                                                           con mejor rendimiento.
+                        Octubre 2025: Lanzamiento oficial QGIS 4.0
+                                                                                                           Nuevas capacidades de modelado
+                        Noviembre 2025: Primera actualización (4.0.1)
+                                                                                                           Herramientas avanzadas de geoprocesamiento y
+
+                                                                                                           automatización de flujos de trabajo.
+             Proyectos en desarrollo
+
+                                                                                                      Áreas de mejora tecnológica:
+             Iniciativas de desarrollo principales enfocadas en:
+                                                                                                       Python 4    Qt 6    API unificada  Soporte WebAssembly     Nuevos formatos
+                  Mejoras en aplicaciones móviles
+                                                                                                       Renderizado GPU     Integración IoT
+                   Integración avanzada con servicios cloud
+
+                  Herramientas de análisis con IA                                                     Visión a largo plazo
+
+
+                                                                                                      QGIS continúa su evolución como plataforma geoespacial
+
+                                                                                                      líder, con enfoque en:
+
+
+                                                                                                         Accesibilidad y facilidad de uso
+
+                                                                                                         Rendimiento en análisis de Big Data
+
+                                                                                                         Ecosistema integrado de herramientas
+
+                                                                                                         Mayor conectividad entre plataformas]]></page></pages></Search>
